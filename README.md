@@ -1,0 +1,1 @@
+# JavaScript-function-accepts-an-three-arguments-45-67-56-find-out-sum-and-percentage.
